@@ -18,6 +18,7 @@ JavaScript:
 <script src="https://localhost/neuro.sdk.min.js"></script>
 Java (Maven):
 
+
 <dependency>
   <groupId>neuro</groupId>
   <artifactId>sdk</artifactId>
